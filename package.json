@@ -1,0 +1,17 @@
+{
+  "name": "generalized-rock-paper-scissors-game",
+  "version": "1.0.0",
+  "main": "rps.js",
+  "scripts": {
+    "start": "node rps.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "cli-table3": "^0.6.5",
+    "crypto": "^1.0.1"
+  }
+}
